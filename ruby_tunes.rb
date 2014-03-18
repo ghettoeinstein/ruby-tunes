@@ -34,7 +34,7 @@ play_button = TkButton.new(root) do
    end
    
    
-//Pause the current playing track
+#Pause the current playing track
  pause_button = TkButton.new(root) do
     text "Pause"
     borderwidth 5
